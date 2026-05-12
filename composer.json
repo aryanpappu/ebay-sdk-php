@@ -1,10 +1,14 @@
 {
-    "name": "benmorel/ebay-sdk-php",
-    "description": "An eBay SDK for PHP. Fork of dts/ebay-sdk-php with support for PHP 8.",
+    "name": "aryanpappu/ebay-sdk-php",
+    "description": "An eBay SDK for PHP. Fork of benmorel/ebay-sdk-php (originally dts/ebay-sdk-php) with PHP 8 support.",
     "keywords": ["ebay", "api", "sdk"],
     "type": "library",
     "license": "(Apache-2.0 and MIT)",
     "authors": [
+        {
+            "name": "Aryan Pappu",
+            "email": "pappu.mishra@dpl.company"
+        },
         {
             "name": "David T. Sadler",
             "email": "davidtsadler@googlemail.com",
